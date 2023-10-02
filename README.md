@@ -1,2 +1,3 @@
-# Nicole.github.io
-My profile page
+# Nicole
+
+## About me
