@@ -6,6 +6,8 @@
 * [LinkedIn Profile](https://www.linkedin.com/in/nicoleteoh/)
 
 ## Projects & Research
-
+### Quantic EMBA
+#### Quantic Asia Society
+* [Women's History Month](https://www.linkedin.com/posts/nicoleteoh_womenshistorymonth-community-growth-activity-7048927076040507392-5mWa)
 
 ## Posts & Articles
