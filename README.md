@@ -4,3 +4,8 @@
 
 ## About me
 * [LinkedIn Profile](https://www.linkedin.com/in/nicoleteoh/)
+
+## Projects & Research
+
+
+## Posts & Articles
