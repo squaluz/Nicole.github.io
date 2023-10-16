@@ -7,6 +7,7 @@
 
 ## Projects & Research
 ### National University of Singapore
+
 #### SGUS FinTech Professional Certification
 <p>Developed MVP for young adults to manage their saving goals</p>
 
