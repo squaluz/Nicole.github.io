@@ -9,6 +9,7 @@
 ### National University of Singapore
 #### SGUS FinTech Professional Certification
 <p>Developed MVP for young adults to manage their saving goals</p>
+
 * [Savings Application](https://www.linkedin.com/posts/nicoleteoh_kudos-goingaboveandbeyond-nus-activity-6978638978392453120-oBeJ)
 
 #### Capston Project - MIRAI 未来
