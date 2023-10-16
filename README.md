@@ -12,7 +12,7 @@
 
 #### Capston Project - MIRAI 未来
 * [Project Report](https://drive.google.com/file/d/1vCclKUeac4zZGLyLLkIqQNknNQz4PHwn/view)
-* [Pitch] (https://youtu.be/A2itxb-_LOA)
+* [Pitch](https://youtu.be/A2itxb-_LOA)
 
 ### University of Cambridge - SupTech Lab
 #### Hackathon
@@ -26,7 +26,7 @@
 * [Hackathon Panelist](https://www.linkedin.com/posts/nicoleteoh_fintech-helthcare-ecommerce-activity-6980422765375877120-Ec0Y)
 
 #### Capston Project - SOLARIS
-* [Pitch] (https://youtu.be/HUlwagPBQfg)
+* [Pitch](https://youtu.be/HUlwagPBQfg)
 * [Business Plan](https://drive.google.com/file/d/1sQHze9B6t5f07TEczh_V7lqKk2zES670/view?usp=drivesdk)
 
 
