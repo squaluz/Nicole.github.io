@@ -1,5 +1,3 @@
-# Nicole
-
 <img src="resources/26Sept2023.JPG" width="100" height="100">
 
 ## About me
