@@ -33,8 +33,11 @@
 * [Business Plan](https://drive.google.com/file/d/1sQHze9B6t5f07TEczh_V7lqKk2zES670/view?usp=drivesdk)
 
 ## Awards
-### National University of Singapore
-#### [Best Lifelong Learner Award](https://www.linkedin.com/posts/nicoleteoh_best-lifelong-learner-award-nicole-teoh-activity-7014496661653643264-RIKf)
+#### National University of Singapore - SGUS FinTech Programme
+* [Best Lifelong Learner Award](https://www.linkedin.com/posts/nicoleteoh_best-lifelong-learner-award-nicole-teoh-activity-7014496661653643264-RIKf)
+
+#### Quantic EMBA
+* [Graduated with Honours](https://www.linkedin.com/feed/update/urn:li:activity:7099623723162337281)
 
 ## Causes & Social Impact
 #### Quantic Asia Society
@@ -42,3 +45,6 @@
 
 #### Quantic Entrepreneurs
 * [Hackathon Panelist](https://www.linkedin.com/posts/nicoleteoh_fintech-helthcare-ecommerce-activity-6980422765375877120-Ec0Y)
+
+#### EMPACT Social Impact Mentorship
+* [Social Innovation & Entrepreneurship Mentor](https://www.linkedin.com/posts/nicoleteoh_socialgood-coach-mentor-activity-7115545555811909632-j7M-)
