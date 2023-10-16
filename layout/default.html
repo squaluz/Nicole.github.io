@@ -1,22 +1,32 @@
 ---
-layout: base
+layout: compress
+https://github.com/academicpages/academicpages.github.io/blob/master/_layouts/default.html
 ---
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}"></html>
 
-<article class="post">
-  
-  /*
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-  */
-  
-  <div class="post-content">
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
     {{ content }}
-  </div>
 
-  <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
-  <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
 
-</article>
+    {% include scripts.html %}
+
+  </body>
+</html>
