@@ -1,6 +1,11 @@
 <img src="resources/26Sept2023.JPG" width="100" height="100">
 
 ## About me
+<p>10+ years of product and project management managing enterprise systems in banking and financial services</p>
+<p>5+ years experience in managing innovation projects, building pipeline of use cases and managing product backlog and change</p>
+<p>Recently graduated from EMBA & Fintech Programme focusing on Natural Language Processing & Sustainability</p>
+
+
 * [LinkedIn Profile](https://www.linkedin.com/in/nicoleteoh/)
 
 ## Projects & Research
