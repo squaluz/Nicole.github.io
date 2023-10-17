@@ -16,7 +16,7 @@
 
 * [NUS Money App](https://www.linkedin.com/posts/nicoleteoh_kudos-goingaboveandbeyond-nus-activity-6978638978392453120-oBeJ)
 
-#### Capston Project - MIRAI 未来
+#### Capstone Project - MIRAI 未来
 <p>Using Natural Language Processing (NLP) to forecast demand for EV manufacturing</p>
 
 * [Project Report](https://drive.google.com/file/d/1vCclKUeac4zZGLyLLkIqQNknNQz4PHwn/view)
@@ -29,7 +29,7 @@
 * [Demo Day](https://vimeo.com/852383344#t=47m50s)
 
 ### Quantic EMBA
-#### Capston Project - SOLARIS
+#### Capstone Project - SOLARIS
 <p>Reinventing Solar Energy business to implement solar for residential households at scale</p>
 
 * [Pitch](https://youtu.be/HUlwagPBQfg)
