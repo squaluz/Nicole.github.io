@@ -3,8 +3,8 @@
 ## About me
 <p>10+ years of product and project management managing enterprise systems in banking and financial services</p>
 <p>5+ years experience in managing innovation projects, building pipeline of use cases and managing product backlog and change</p>
-<p>Recently graduated from EMBA & Fintech Programme focusing on Natural Language Processing & Sustainability</p>
-
+<p>EMBA & Fintech Programme Graduate with interest on Natural Language Processing & Sustainability</p>
+<p>Global Programme Manager at DHL Group</p>
 
 * [LinkedIn Profile](https://www.linkedin.com/in/nicoleteoh/)
 
